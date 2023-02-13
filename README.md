@@ -2,3 +2,4 @@
 
 Diverse Karteikarten zum kontinuirlichen Lernen von neuen Stoff, wöchentliches Update :)
 
+# VIEL ERFOLG!! :) 
