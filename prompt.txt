@@ -1,0 +1,10 @@
+
+Given the text above, create multiple Anki flash cards by using the text. 
+When generating the cards, follow the instructions below. 
+- Do not only ask for definitions, but also question related to the context of a construct, such its use and advantages / disadvantages.
+- The answer should be as short but still precice as possible.
+- When using mathematical formulas or variables, use <anki-mathjax> brackets with mathjax expressions.
+- In the answer: If possible use CSS bullet points and write them out using <li>. 
+- If you want to list keywords as an asnwer, use <details> and <summary> to provide details of the keyword.
+- Note the topic at the top of the front of the card.
+- When printing the result, put the content of the front and the back of the cards into two seperate code blocks
